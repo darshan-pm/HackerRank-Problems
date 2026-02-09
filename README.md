@@ -1,1 +1,1 @@
-DSA in C 
+this repository contains my C basics.
